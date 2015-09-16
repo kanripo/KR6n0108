@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:26.037948
+#+DATE: 2015-08-30 20:58:26.250154
 #+TITLE: 大乘百法明門論開宗義記序釋
 #+PROPERTY: CBETA_ID T85n2811
 #+PROPERTY: ID KR6n0108
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2811
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6n0108_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0108_T_001-1065b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2811[cf.No.2810]¶
-
- 大乘百法明門論開宗義記序釋¶
+No. 2811 [cf. No. 2810]¶
+大乘百法明門論開宗義記序釋¶
 ¶
 
 夫遍知委照渾真俗於心源深慈普洽演半滿¶
@@ -231,7 +230,7 @@ No.2811[cf.No.2810]¶
 出來。別立異名名百法論。且不言瑜伽論。亦¶
 不號本事論。¶
 
-大乘以廣運崇號百法以體數彰名。¶
+大乘以廣運崇號百法以體數彰名明門將開慧為功論者乃詮辨之稱本事則究極法體。¶
 
 大者遮小得名　乘者運載為義。亦遮詮立¶
 號。遮詮者簡小乘故非是表詮也　百者數¶
