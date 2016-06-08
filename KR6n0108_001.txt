@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:58:26.037948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 大乘百法明門論開宗義記序釋
 #+PROPERTY: CBETA_ID T85n2811
 #+PROPERTY: ID KR6n0108
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2811
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0108_T_000-1065b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0108_T_001-1065b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2811[cf.No.2810]¶
-
- 大乘百法明門論開宗義記序釋¶
+No. 2811 [cf. No. 2810]¶
+大乘百法明門論開宗義記序釋¶
 ¶
 
 夫遍知委照渾真俗於心源深慈普洽演半滿¶
